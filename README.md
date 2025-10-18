@@ -55,7 +55,7 @@
 <a href="https://figma.com">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
-<a href="https://lua.org">
+<a href="https://lua-api.factorio.com/stable">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </a>
 <br/>
