@@ -71,13 +71,10 @@
 <a href="https://reactnative.dev">
   <img src="https://img.shields.io/badge/-React%20native-20232A?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
-<a href="https://tailwindcss.com">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</a>
-<br/>
 <a href="https://react.dev">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
+<br/>
 <a href="https://developer.mozilla.org/ru/docs/Web/CSS">
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
 </a>
