@@ -1,10 +1,10 @@
 <h1 align="center">Привет 👋</h1>
 
 Меня зовут Леонид. Мне 28 лет. Я backend-разработчик среднего уровня.
-<br/>
+<br/><br/>
 Мне нравится создавать проекты, которые сочетают в себе высокую надежность,<br/> 
 понятную ценность и в которые я сам верю как пользователь.
-<br/>
+<br/><br/>
 Программирую с 2017 года. В коммерческой разработке с 2022 года.
 
 ---
@@ -39,12 +39,12 @@
 <a href="https://postgresql.org">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </a>
-<a href="https://mongodb.com">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</a>
 
 - Второстепенный:
 
+<a href="https://mongodb.com">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
 <a href="https://typeorm.io">
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" />
 </a>
